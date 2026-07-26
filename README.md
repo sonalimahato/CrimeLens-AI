@@ -1,11 +1,26 @@
 # 🚔 CrimeLens AI
 
-An AI-powered crime intelligence platform that helps analyze crime reports, detect patterns, visualize criminal networks, and provide actionable insights using NLP, OCR, Computer Vision, and interactive analytics.
+**CrimeLens AI** is an AI-powered crime intelligence platform designed to help investigators analyze crime reports, identify patterns, visualize criminal networks, and generate actionable insights through intelligent data analysis.
 
-## 🌐 Live Demo
-🔗 [https://(https://attached-assets--sona25.replit.app)]
+## ✨ Highlights
 
-## 🛠️ Tech Stack
-React • TypeScript • Node.js • Express • PostgreSQL • Drizzle ORM • Tailwind CSS • Gemini AI
+- 🤖 AI-Powered Crime Analysis
+- 📄 OCR & Document Processing
+- 🧠 NLP-based Entity Extraction
+- 🕸️ Criminal Network Visualization
+- 📊 Interactive Analytics Dashboard
+- 📍 Crime Hotspot Detection
+- 🔍 Smart Case Search
 
-> Replace `https://your-deployed-link.com` with your actual deployed URL.
+## 🔗 Explore the Project
+
+- 🌐 **Live Application** → **[Launch CrimeLens AI](https://attached-assets--sona25.replit.app)**
+- 🎥 **Demo Video** → **[Watch the Demo](https://youtu.be/mdLo4ArvACY)**
+
+## 🛠️ Built With
+
+**React • TypeScript • Node.js • Express.js • PostgreSQL • Drizzle ORM • Tailwind CSS • Gemini AI**
+
+---
+
+⭐ *If you found this project interesting, consider giving it a star!*
